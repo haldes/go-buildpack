@@ -8,5 +8,4 @@ vendor
 _workspace
 pkg/
 /.bin/
-/src/github.com/
 /src/gopkg.in/
